@@ -1,3 +1,3 @@
-FROM centos:latest
+FROM centos:7
 RUN useradd jack
 USER jack
